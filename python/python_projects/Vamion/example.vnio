@@ -1,0 +1,7 @@
+# these are variables
+var syntax = "hello world"
+var a = 1
+
+# outputs variables to the terminal.
+output(syntax)
+output(a)
